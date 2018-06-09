@@ -1,0 +1,899 @@
+{
+  "title": {
+    "media": "Media",
+    "text": {
+      "headline": "Electronic invoices timeline",
+      "text": "A timeline of how electronic invoicing is introduced in Europe, particularly Germany/ZUGFeRD. JSON file for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.0 2018-06-09 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. We're e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": 1977
+      },
+      "end_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "EDI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "end_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "PDF"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "end_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Structured"
+      }
+    }
+  ],
+  "events": [
+    {
+      "unique_id": 1,
+      "start_date": {
+        "year": 1977
+      },
+      "end_date": {
+        "year": 2020
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "EDI-Standards in Germany",
+        "text": "Andreas Pelekies mentioned on the fourth annual FeRD conference in 2018 that the first EDI standards in Germany evolved in 1977 (https://www.ferd-net.de/upload/Pelekies_Aktueller_Stand_von_ZUGFeRD_2.0_4._FeRD.pdf)"
+      }
+    },
+    {
+      "unique_id": 2,
+      "start_date": {
+        "year": 1999
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "ebXML",
+        "text": "UN/CEFACT publishes https://en.wikipedia.org/wiki/EbXML, the predecessor of UBL"
+      }
+    },
+    {
+      "unique_id": 3,
+      "start_date": {
+        "year": 2004,
+        "month": 11
+      },
+      "end_date": {
+        "year": 2006
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "UBL 1.0",
+        "text": "OASIS publishes UBL, https://en.wikipedia.org/wiki/Universal_Business_Language"
+      }
+    },
+    {
+      "unique_id": 4,
+      "start_date": {
+        "year": 2005
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Denmark",
+        "text": "Denmark makes electronic B2G invoices (in a UBL based standard called OIOUBL) obligatory and saves 100 mio € per year (https://www.batch.co.uk/web/images/PDFs/EU-report.pdf)"
+      }
+    },
+    {
+      "unique_id": 5,
+      "start_date": {
+        "day": 12,
+        "month": 12,
+        "year": 2006
+      },
+      "end_date": {
+        "day": 4,
+        "month": 11,
+        "year": 2013
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "UBL 2.0",
+        "text": "https://en.wikipedia.org/wiki/Universal_Business_Language 2.0 is released"
+      }
+    },
+    {
+      "unique_id": 6,
+      "start_date": {
+        "year": 2008
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Sweden",
+        "text": "Sweden follows Denmark in mandatorizing eInvoices for central government agencies"
+      }
+    },
+    {
+      "unique_id": 7,
+      "start_date": {
+        "month": 11,
+        "year": 2009
+      },
+      "end_date": {
+        "day": 16,
+        "month": 4,
+        "year": 2014
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "European legislative process",
+        "text": "European legislation advances from a report of the Expert Group on e-Invoicing (https://www.batch.co.uk/web/images/PDFs/EU-report.pdf) to the Directive 2014/55/EU of the European Parliament and of the Council https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32014L0055"
+      }
+    },
+    {
+      "unique_id": 8,
+      "start_date": {
+        "year": 2010
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Spain",
+        "text": "Mandatory for Public administration suppliers (invoices higher than EUR 5 000)"
+      }
+    },
+    {
+      "unique_id": 9,
+      "start_date": {
+        "year": 2010
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Finland",
+        "text": "eInvoicing is mandatory through the Finnish Government Programme since 2010"
+      }
+    },
+    {
+      "unique_id": 10,
+      "start_date": {
+        "year": 2010,
+        "month": 3
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "FeRD founded",
+        "text": "The Forum elektronische Rechnung Deutschland (FeRD) is founded"
+      }
+    },
+    {
+      "unique_id": 11,
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "day": 5
+      },
+      "end_date": {
+        "year": 2013,
+        "month": 2,
+        "day": 9
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of ZUGFeRD 1.0RC",
+        "text": "In the context of the Cebit fair the 1.0 specification release candidate of ZUGFeRD is released in german language"
+      }
+    },
+    {
+      "unique_id": 12,
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "day": 4
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "UBL 2.1",
+        "text": "UBL 2.1, the later ISO standard, is released"
+      }
+    },
+    {
+      "unique_id": 13,
+      "start_date": {
+        "year": 2014
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Austria",
+        "text": "B2G e-invoicing becomes mandatory in Austria"
+      }
+    },
+    {
+      "unique_id": 14,
+      "start_date": {
+        "year": 2014
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Italy",
+        "text": "B2G eInvoicing is mandatory since 2014 (https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing+in+Italy)"
+      }
+    },
+    {
+      "unique_id": 15,
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "day": 3
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Konik 0.1.0",
+        "text": "First release of the Konik open-source Java ZUGFeRD library"
+      }
+    },
+    {
+      "unique_id": 16,
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "day": 22
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject",
+        "text": "First release of the open-source Java ZUGFeRD library Mustangproject"
+      }
+    },
+    {
+      "unique_id": 17,
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "day": 25
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "ZUGFeRD 1.0",
+        "text": "Release of final ZUGFeRD 1.0 specification (in german)"
+      }
+    },
+    {
+      "unique_id": 18,
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "day": 13
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "Article in the german iX Magazine 8/14",
+        "text": "Vadim Bauer from Konik writes https://www.heise.de/ix/heft/Fakturierungsautomat-2268413.html"
+      }
+    },
+    {
+      "unique_id": 19,
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "day": 11
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "1st annual FeRD conference",
+        "text": "The FeRD meets at the Ministry of Federal Ministry for Economic Affairs and Energy in Berlin"
+      }
+    },
+    {
+      "unique_id": 20,
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "day": 29
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of ZUGFeRD 1.0.1 specification",
+        "text": "more precisely: Corrigendum to 1.0"
+      }
+    },
+    {
+      "unique_id": 21,
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "day": 7
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.1",
+        "text": "Mustangproject 1.1 is released"
+      }
+    },
+    {
+      "unique_id": 22,
+      "start_date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Slovenia",
+        "text": "B2G eInvoicing is mandatory in Slovenia since 2015 "
+      }
+    },
+    {
+      "unique_id": 23,
+      "start_date": {
+        "year": 2015,
+        "month": 1,
+        "day": 19
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of ZUGFeRD 1.0 specification (in english)",
+        "text": "Previously it was available only in german"
+      }
+    },
+    {
+      "unique_id": 24,
+      "start_date": {
+        "year": 2015,
+        "month": 5,
+        "day": 21
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 5,
+        "day": 22
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "1st developer days",
+        "text": "The FeRDMC organizes the first ZUGFeRD developer conference in Bielefeld, Germany"
+      }
+    },
+    {
+      "unique_id": 25,
+      "start_date": {
+        "year": 2015,
+        "month": 9
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "2nd developer days",
+        "text": "The FeRDMC organizes the second ZUGFeRD developer conference in Bielefeld, Germany"
+      }
+    },
+    {
+      "unique_id": 26,
+      "start_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 1
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "Official Launch of zugferd-community.net",
+        "text": "The FeRDMC launches the website among others for ZUGFeRD developer days participants"
+      }
+    },
+    {
+      "unique_id": 27,
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "day": 15
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.2",
+        "text": "The open-source Java ZUGFeRD library Mustangproject releases Version 1.2"
+      }
+    },
+    {
+      "unique_id": 28,
+      "start_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 5
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 6
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "3rd developer days",
+        "text": "The FeRDMC organizes the third ZUGFeRD developer conference in Bielefeld, Germany"
+      }
+    },
+    {
+      "unique_id": 29,
+      "start_date": {
+        "year": 2015,
+        "month": 12
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "UBL becomes ISO Standard",
+        "text": "UBL 2.1 becomes ISO/IEC 19845:2015"
+      }
+    },
+    {
+      "unique_id": 30,
+      "start_date": {
+        "year": 2015,
+        "month": 12,
+        "day": 2
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "ZUGFeRD/Mustangproject is awarded the OSBAR",
+        "text": "Mustangproject is awarded the first prize (award in gold) of the Open Source Business Association at the Open! conference in Stuttgart"
+      }
+    },
+    {
+      "unique_id": 31,
+      "start_date": {
+        "year": 2016,
+        "month": 3
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "160 supporters",
+        "text": "The list of supporters counts 160 supporters from 7 countries"
+      }
+    },
+    {
+      "unique_id": 32,
+      "start_date": {
+        "year": 2016,
+        "month": 3,
+        "day": 15
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.3",
+        "text": "Mustangpproject releases version 1.3"
+      }
+    },
+    {
+      "unique_id": 33,
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "day": 20
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "199 supporters",
+        "text": "http://www.ferd-net.de/zugferd/unterstuetzerliste/index.html counts 199 supporters"
+      }
+    },
+    {
+      "unique_id": 34,
+      "start_date": {
+        "year": 2016,
+        "month": 11,
+        "day": 24
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 11,
+        "day": 25
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "4th developer days",
+        "text": "The FeRDMC organizes the fourth ZUGFeRD developer conference in Bielefeld, Germany"
+      }
+    },
+    {
+      "unique_id": 35,
+      "start_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 8
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "3rd annual FeRD conference in Berlin",
+        "text": "The FeRD meets at the Ministry of Federal Ministry for Economic Affairs and Energy in Berlin"
+      }
+    },
+    {
+      "unique_id": 36,
+      "start_date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "France",
+        "text": "Gradual introduction of electronic invoicing,<ul><li>01/01/2017 for any company including more than 5000 employees</li><li>01/01/2018 for any company including 250 to 5000 employees</li><li>01/01/2019 for any company including 10 to 250 employees</li><li>01/01/2020 for any company including less than 10 employees</li></ul>"
+      }
+    },
+    {
+      "unique_id": 37,
+      "start_date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Netherlands",
+        "text": "B2G eInvoicing is mandatory since January 2017 for central government agencies and voluntary for sub-central government. (https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing+in+The+Netherlands)"
+      }
+    },
+    {
+      "unique_id": 38,
+      "start_date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "Official launch of the ZUGFeRD User Group",
+        "text": "FeRDMC(?) launches a committee to be able to adapt to the electronic invoicing requirements of different industry sectors"
+      }
+    },
+    {
+      "unique_id": 39,
+      "start_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Estonia",
+        "text": "Electronic invoices become mandatory for the whole public sector"
+      }
+    },
+    {
+      "unique_id": 40,
+      "start_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 4
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Amendment to the german e-invoing act (E-Rechnungsverordnung)",
+        "text": "The amendment is published in Germany's official journal Bundesgesetzblatt 19/2017 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl117s0770.pdf%27%5D__1516912634862"
+      }
+    },
+    {
+      "unique_id": 41,
+      "start_date": {
+        "year": 2017,
+        "month": 5,
+        "day": 10
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of XRechnung 1.0 (Specification)",
+        "text": "XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published https://www.xoev.de/die_standards/xrechnung/xrechnung_versionen/xrechnung_version_1_0-14771"
+      }
+    },
+    {
+      "unique_id": 42,
+      "start_date": {
+        "year": 2017,
+        "month": 5,
+        "day": 11
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.4",
+        "text": "The open source java ZUGFeRD library is releases Version 1.4"
+      }
+    },
+    {
+      "unique_id": 43,
+      "start_date": {
+        "year": 2017,
+        "month": 6,
+        "day": 30
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "FNFE Publishes Factur-X Beta 1",
+        "text": "The french Forum National de la Factur Electronique publishes ZUGFeRD as Factur-X"
+      }
+    },
+    {
+      "unique_id": 44,
+      "start_date": {
+        "year": 2017,
+        "month": 7,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Lithuania",
+        "text": "B2G eInvoicing is mandatory since 1 July 2017 (https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing+in+Lithuania)"
+      }
+    },
+    {
+      "unique_id": 45,
+      "start_date": {
+        "year": 2017,
+        "month": 7,
+        "day": 28
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "1st release of factur-x",
+        "text": "The open-source Python library for ZUGFeRD/Factur-X is released http://www.akretion.com/blog/akretion-publishes-opensource-factur-x-python-lib"
+      }
+    },
+    {
+      "unique_id": 46,
+      "start_date": {
+        "year": 2017,
+        "month": 8,
+        "day": 25
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Public review of ZUGFeRD 2.0,Part 1 (EN16931)",
+        "text": "A ZUGFeRD 2.0 draft is released as public preview version http://www.ferd-net.de/aktuelles/meldungen/kommentierung-zugferd-2.0.html"
+      }
+    },
+    {
+      "unique_id": 47,
+      "start_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 6
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 27
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "German e-invoing act (E-Rechnungsverordnung)",
+        "text": "(https://www.bmi.bund.de/SharedDocs/Downloads/DE/Gesetzestexte/e-rechnungs-verordnung.pdf)"
+      }
+    },
+    {
+      "unique_id": 48,
+      "start_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 13
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "Adoption of EN16931 profile of Public review of ZUGFeRD 2.0,Part 1",
+        "text": "The public preview gets <a href='http://www.ferd-net.de/aktuelles/meldungen/verabschiedung-zugferd-2.0_profil-en16931.html'>adopted</a> but is not yet officially published"
+      }
+    },
+    {
+      "unique_id": 49,
+      "start_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 30
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "FNFE Publishes Factur-X Beta 2",
+        "text": "The french Forum National de la Factur Electronique publishes the second beta of ZUGFeRD/Factur-X"
+      }
+    },
+    {
+      "unique_id": 50,
+      "start_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 13
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 27
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Change E-Rechnungsverordnung act Bundesgesetzblatt 68/2017",
+        "text": "Amendment to the e-invoicing act (E-Rechnungsverordnung) is published in Germany's official journal Bundesgesetzblatt 68/2017"
+      }
+    },
+    {
+      "unique_id": 51,
+      "start_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 27
+      },
+      "end_date": {
+        "year": 2018,
+        "month": 11,
+        "day": 27
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "German E-Rechnungsverordnung Phase 1",
+        "text": "electronic invoices to be accepted by german authorities"
+      }
+    },
+    {
+      "unique_id": 52,
+      "start_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 29
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "308 officially listed ZUGFeRD supporters",
+        "text": "http://www.ferd-net.de/zugferd/unterstuetzerliste/index.html"
+      }
+    },
+    {
+      "unique_id": 53,
+      "start_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 30
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.5",
+        "text": "Mustangproject releases version 1.5"
+      }
+    },
+    {
+      "unique_id": 54,
+      "start_date": {
+        "year": 2017,
+        "month": 12,
+        "day": 31
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "FNFE Publishes Factur-X 1.0",
+        "text": "The french Forum National de la Factur Electronique publishes the final version of a ZUGFeRD 2.0 subset = Factur-X 1.0"
+      }
+    },
+    {
+      "unique_id": 55,
+      "start_date": {
+        "year": 2018,
+        "month": 1,
+        "day": 11
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "4th annual FeRD conference in Berlin",
+        "text": "See <a href='http://www.ferd-net.de/ressourcen/veroeffentlichungen/praesentationen-der-4.-ferd-konferenz.html'>slides</a> and <a href='https://www.youtube.com/watch?v=xJ0ngW5QP6o&feature=youtu.be'>footage</a>"
+      }
+    },
+    {
+      "unique_id": 56,
+      "start_date": {
+        "day": 27,
+        "month": 11,
+        "year": 2018
+      },
+      "end_date": {
+        "day": 18,
+        "month": 4,
+        "year": 2019
+      },
+      "text": {
+        "headline": "European transition period for central govermental bodies",
+        "text": "according to https://www.ferd-net.de/upload/Hauschild_Europische_Richtlinie_zur_elektronischen_Rechnungsstellung_bei_ffentlichen_Auftrgen_4._FeRD_Konferenz.pdf "
+      }
+    },
+    {
+      "unique_id": 57,
+      "start_date": {
+        "day": 27,
+        "month": 11,
+        "year": 2018
+      },
+      "end_date": {
+        "day": 18,
+        "month": 4,
+        "year": 2020
+      },
+      "text": {
+        "headline": "Transition period for subcentral govermental bodies",
+        "text": "according to https://www.ferd-net.de/upload/Hauschild_Europische_Richtlinie_zur_elektronischen_Rechnungsstellung_bei_ffentlichen_Auftrgen_4._FeRD_Konferenz.pdf "
+      }
+    },
+    {
+      "unique_id": 58,
+      "start_date": {
+        "year": 2018,
+        "month": 1,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Belgium",
+        "text": "E-invoices mandatory on federal level for B2G invoices exceeding 135000€"
+      }
+    },
+    {
+      "unique_id": 59,
+      "start_date": {
+        "year": 2018,
+        "month": 3,
+        "day": 22
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "Mustangproject published the 2nd article in the german iX Magazine 4/18",
+        "text": "<a href='https://www.heise.de/select/ix/2018/4/1522358420293107'>B2G, B2B and B2C aspects of ZUGFeRD 2.0 and XRechnung</a>"
+      }
+    },
+    {
+      "unique_id": 60,
+      "start_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 26
+      },
+      "end_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 27
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "6th ZUGFeRD Developer Days",
+        "text": "The FeRDMC organizes the sixth ZUGFeRD developer conference in Bielefeld, Germany"
+      }
+    },
+    {
+      "unique_id": 61,
+      "start_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 17
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "New online validator",
+        "text": " https://github.com/ZUGFeRD/ZUV/ becomes available in version 0.4.4 as http://validator.zugferd.org"
+      }
+    },
+    {
+      "unique_id": 62,
+      "start_date": {
+        "year": 2018,
+        "month": 11,
+        "day": 27
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Germany: B2G e-invoices now mandatory",
+        "text": "E-Rechnungsverordnung Phase 2: paper and non-hybrid PDF invoices to be rejected by german authorities"
+      }
+    }
+  ]
+}
