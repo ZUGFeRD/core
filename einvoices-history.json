@@ -894,6 +894,42 @@
         "headline": "Germany: B2G e-invoices now mandatory",
         "text": "E-Rechnungsverordnung Phase 2: paper and non-hybrid PDF invoices to be rejected by german authorities"
       }
+    },
+    {
+      "unique_id": 63,
+      "start_date": {
+        "year": 2017,
+        "month": 7,
+        "day": 10
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 13
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2 EN16931 profile public preview",
+        "text": "Public preview (http://web.archive.org/web/20180409215558/http://www.ferd-net.de:80/aktuelles/meldungen/kommentierung-zugferd-2.0.html) and approval (https://www.ferd-net.de/aktuelles/meldungen/verabschiedung-zugferd-2.0_profil-en16931.html) of the EN16931 profile of ZUGFeRD 2.0 "
+      }
+    },
+    {
+      "unique_id": 64,
+      "start_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 26
+      },
+      "end_date": {
+        "year": 2018,
+        "month": 11,
+        "day": 12
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2 public preview",
+        "text": "Public preview (https://www.ferd-net.de/aktuelles/meldungen/entwurf-der-spezifikation-zugferd-2.0-zur-oeffentlichen-kommentierung.html) of ZUGFeRD 2.0 "
+      }
     }
   ]
 }
