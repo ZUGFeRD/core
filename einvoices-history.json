@@ -3,7 +3,7 @@
     "media": "Media",
     "text": {
       "headline": "Electronic invoices timeline",
-      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.0 2018-06-09 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
+      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.1 2018-10-28 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
     }
   },
   "eras": [
