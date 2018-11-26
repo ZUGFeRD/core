@@ -3,7 +3,7 @@
     "media": "Media",
     "text": {
       "headline": "Electronic invoices timeline",
-      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.1 2018-10-28 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
+      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.2 2018-11-26 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
     }
   },
   "eras": [
@@ -942,6 +942,32 @@
       "text": {
         "headline": "New online validator version",
         "text": " https://github.com/ZUGFeRD/ZUV/ becomes available in version 0.5.0"
+      }
+    },
+    {
+      "unique_id": 66,
+      "start_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 30
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of XRechnung 1.1 (Specification)",
+        "text": "A new version of XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published"
+      }
+    },
+    {
+      "unique_id": 67,
+      "start_date": {
+        "year": 2018,
+        "month": 11,
+        "day": 20
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Germany launches National Invoicing Platform (Zentralen Rechnungseingangsplattform)",
+        "text": "https://www.bmi.bund.de/DE/themen/moderne-verwaltung/verwaltungsmodernisierung/e-beschaffung/e-beschaffung-artikel.html"
       }
     }
   ]
