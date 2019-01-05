@@ -3,7 +3,7 @@
     "media": "Media",
     "text": {
       "headline": "Electronic invoices timeline",
-      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.2 2018-11-26 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
+      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.3 2019-01-05 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
     }
   },
   "eras": [
@@ -968,6 +968,24 @@
       "text": {
         "headline": "Germany launches National Invoicing Platform (Zentralen Rechnungseingangsplattform)",
         "text": "https://www.bmi.bund.de/DE/themen/moderne-verwaltung/verwaltungsmodernisierung/e-beschaffung/e-beschaffung-artikel.html"
+      }
+    },
+    {
+      "unique_id": 68,
+      "start_date": {
+        "year": 2018,
+        "month": 12,
+        "day": 18
+      },
+      "start_date": {
+        "year": 2018,
+        "month": 12,
+        "day": 31
+      },
+      "group": "Adoption",
+      "text": {
+        "headline": "EU commision and CEN agree to make 16931-1:2017 and 16931-2:2017 available for free",
+        "text": "(german) https://www.zugferd-community.net/infothek/kostenloser_zugang_zum_semantischen_datenmodell_und_den_syntaxen_des_europaeischen_standards_fuer_einvoicing_en_16931_vereinbart"
       }
     }
   ]
