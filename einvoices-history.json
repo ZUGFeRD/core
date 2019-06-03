@@ -987,6 +987,76 @@
         "headline": "EU commision and CEN agree to make 16931-1:2017 and 16931-2:2017 available for free",
         "text": "(german) https://www.zugferd-community.net/infothek/kostenloser_zugang_zum_semantischen_datenmodell_und_den_syntaxen_des_europaeischen_standards_fuer_einvoicing_en_16931_vereinbart"
       }
+    },
+    {
+      "unique_id": 69,
+      "start_date": {
+        "year": 2019,
+        "month": 1,
+        "day": 24
+      },
+      "end_date": {
+        "year": 2019,
+        "month": 2,
+        "day": 25
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "1st Factur-X Hackathon",
+        "text": "The FNFE organizes the first Factur-X developer conference in Paris, France"
+      }
+    },
+    {
+      "unique_id": 70,
+      "start_date": {
+        "year": 2019,
+        "month": 2,
+        "day": 3
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.6",
+        "text": "Mustangproject releases version 1.6 supporting Factur-X"
+      }
+    },
+    {
+      "unique_id": 71,
+      "start_date": {
+        "year": 2019,
+        "month": 3,
+        "day": 11
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "ZUGFeRD 2.0",
+        "text": "Release of the final ZUGFeRD 2.0 specification (in german)"
+      }
+    },
+    {
+      "unique_id": 72,
+      "start_date": {
+        "year": 2019,
+        "month": 5,
+        "day": 5
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 1.7",
+        "text": "Mustangproject releases version 1.7 supporting ZUGFeRD 2.0"
+      }
+    },
+    {
+      "unique_id": 73,
+      "start_date": {
+        "year": 2019,
+        "month": 5,
+        "day": 31
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "New online validator version 0.7",
+        "text": " https://github.com/ZUGFeRD/ZUV/ becomes available in version 0.7.0 supporting ZUGFeRD 2.0"
+      }
     }
   ]
 }
