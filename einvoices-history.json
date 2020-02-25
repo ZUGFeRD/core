@@ -1101,6 +1101,19 @@
         "headline": "ZUGFeRD 2.0.1",
         "text": "Release of the ZUGFeRD 2.0.1 correction (in german)"
       }
+    },
+    {
+      "unique_id": 77,
+      "start_date": {
+        "year": 2018,
+        "month": 12,
+        "day": 18
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of XRechnung 1.2 (Specification)",
+        "text": "A new version of XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published"
+      }
     }
   ]
 }
