@@ -1114,6 +1114,19 @@
         "headline": "Release of XRechnung 1.2 (Specification)",
         "text": "A new version of XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published"
       }
+    },
+    {
+      "unique_id": 78,
+      "start_date": {
+        "year": 2016,
+        "month": 12,
+        "day": 13
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Franco-German conference on digitalisation",
+        "text": "https://www.bundesregierung.de/breg-en/service/driving-digitalisation-forward-in-europe-485574"
+      }
     }
   ]
 }
