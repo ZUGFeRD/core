@@ -1127,6 +1127,32 @@
         "headline": "Franco-German conference on digitalisation",
         "text": "https://www.bundesregierung.de/breg-en/service/driving-digitalisation-forward-in-europe-485574"
       }
-    }
+    },
+    {
+      "unique_id": 79,
+      "start_date": {
+        "year": 2020,
+        "month": 03,
+        "day": 24
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "ZUGFeRD 2.1, Factur-X 1.0.05",
+        "text": "The french Forum National de la Factur Electronique publishes the final version of Factur-X 1.0.05 simulaneously to the german AWV publishing ZUGFeRD 2.1 (in german and english)"
+      }
+    },
+    {
+      "unique_id": 80,
+      "start_date": {
+        "year": 2020,
+        "month": 03,
+        "day": 24
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "New version of online validator",
+        "text": " https://github.com/ZUGFeRD/ZUV/ becomes available in version 0.9.0 supporting Factur-X 1.0.05 and ZUGFeRD 2.1"
+      }
+    },
   ]
 }
