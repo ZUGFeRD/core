@@ -977,7 +977,7 @@
         "month": 12,
         "day": 18
       },
-      "start_date": {
+      "end_date": {
         "year": 2018,
         "month": 12,
         "day": 31
@@ -1132,7 +1132,7 @@
       "unique_id": 79,
       "start_date": {
         "year": 2020,
-        "month": 03,
+        "month": 3,
         "day": 24
       },
       "group": "Open Standards",
@@ -1145,7 +1145,7 @@
       "unique_id": 80,
       "start_date": {
         "year": 2020,
-        "month": 03,
+        "month": 3,
         "day": 24
       },
       "group": "ZUGFeRD",
