@@ -1153,6 +1153,19 @@
         "headline": "New version of online validator",
         "text": " https://github.com/ZUGFeRD/ZUV/ becomes available in version 0.9.0 supporting Factur-X 1.0.05 and ZUGFeRD 2.1"
       }
+    },
+    {
+      "unique_id": 81,
+      "start_date": {
+        "year": 2020,
+        "month": 06,
+        "day": 30
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Release of XRechnung 2.0 (Specification)",
+        "text": "A new version of XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published, with a two profiles: standard and extensions"
+      }
     }
   ]
 }
