@@ -1197,6 +1197,19 @@
         "headline": "8th developer days",
         "text": "The FeRDMC organizes the seventh ZUGFeRD developer conference (ZUGFeRD-Entwicklertage), due to Corona online"
       }
+    },
+    {
+      "unique_id": 84,
+      "start_date": {
+        "year": 2019,
+        "month": 12,
+        "day": 28
+      },
+      "group": "Adoption",
+      "text": {
+        "headline": "France publishes intention to make B2B e-invoicing mandatory",
+        "text": "Pending EU permission, France wants to <a href='https://www.edicomgroup.com/en_US/news/13617-france-prepares-for-mandatory-b2b-e-invoicing.html'>introduce mandatory B2B e-invoicing</a> between 2023 and 2025."
+      }
     }
   ]
 }
