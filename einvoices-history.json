@@ -1166,6 +1166,19 @@
         "headline": "Release of XRechnung 2.0 (Specification)",
         "text": "A new version of XRechnung, the german national dialect, i.e. a EN16931 CIUS, is published, with a two profiles: standard and extensions"
       }
+    },
+    {
+      "unique_id": 82,
+      "start_date": {
+        "year": 2019,
+        "month": 1,
+        "day": 1
+      },
+      "group": "Adoption",
+      "text": {
+        "headline": "Mandatory B2B e-invoicing in Italy",
+        "text": "Italy becomes the first european nation to <a href='https://ec.europa.eu/cefdigital/wiki/download/attachments/68331443/CEF%2520eInvoicing_2018-12-04%2520Stanziale%2520-%2520Brussels%2520%25285%2529.pdf'>introduce mandatory B2B e-invoicing</a>."
+      }
     }
   ]
 }
