@@ -1210,6 +1210,19 @@
         "headline": "France publishes intention to make B2B e-invoicing mandatory",
         "text": "Pending EU permission, France wants to <a href='https://www.edicomgroup.com/en_US/news/13617-france-prepares-for-mandatory-b2b-e-invoicing.html'>introduce mandatory B2B e-invoicing</a> between 2023 and 2025."
       }
+    },
+    {
+      "unique_id": 85,
+      "start_date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "group": "Adoption",
+      "text": {
+        "headline": "Order-X 1.0",
+        "text": "Order-X 1.0 <a href='http://www.ferd-net.de/download-order-x'>is published</a> in german, english and french."
+      }
     }
   ]
 }
