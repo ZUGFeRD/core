@@ -1224,7 +1224,6 @@
         "text": "Order-X 1.0 <a href='http://www.ferd-net.de/download-order-x'>is published</a> in german, english and french."
       }
     },
-    ,
     {
       "unique_id": 86,
       "start_date": {
@@ -1238,7 +1237,6 @@
         "text": "Mustangproject releases version 2.0 integrating the validator, supporting a invoice class instead of only an interface, Maven Central and ZUGFeRD 2.1"
       }
     },
-    ,
     {
       "unique_id": 87,
       "start_date": {
