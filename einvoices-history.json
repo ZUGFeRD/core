@@ -1249,6 +1249,45 @@
         "headline": "Mustangproject 2.1",
         "text": "Mustangproject releases version 2.1 supporting ZUGFeRD 2.1.1"
       }
+    },
+    {
+      "unique_id": 87,
+      "start_date": {
+        "year": 2021,
+        "month": 5,
+        "day": 20
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.2",
+        "text": "Mustangproject releases version 2.2 capable of validating Order-X"
+      }
+    },	
+    {
+      "unique_id": 88,
+      "start_date": {
+        "year": 2021,
+        "month": 10,
+        "day": 4
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.3",
+        "text": "Mustangproject releases version 2.3 capable of validating XR 2.1"
+      }
+    },	
+    {
+      "unique_id": 89,
+      "start_date": {
+        "year": 2013,
+        "month": 3,
+        "day": 5
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Gemeinsame Erklärung (Common Statement)",
+        "text": "The German Minstry for Interior <a href='https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2013/gemeinsame-erklaerung.html'>publishes a statement</a> that it will partner up with the Ministry of Economy in terms of ZUGFeRD"
+      }
     }
   ]
 }
