@@ -3,7 +3,7 @@
     "media": "Media",
     "text": {
       "headline": "Electronic invoices timeline",
-      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.3 2019-01-05 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
+      "text": "A timeline of how electronic invoicing is introduced in Europe. JSON file on https://github.com/ZUGFeRD/core/blob/master/einvoices-history.json for the great MPL <a href='https://github.com/NUKnightLab/TimelineJS3'>Knightlabs Timeline</a>.<br>v1.4 2021-12-06 by Jochen Stärk, Mustangproject.org <br> <br>License: Public domain. Feel free to send pull requests. I'm e.g. looking for ZUGFeRD Roadshow dates and FNFE cooperation events."
     }
   },
   "eras": [
@@ -1288,6 +1288,87 @@
         "headline": "Gemeinsame Erklärung (Common Statement)",
         "text": "The German Minstry for Interior <a href='https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2013/gemeinsame-erklaerung.html'>publishes a statement</a> that it will partner up with the Ministry of Economy in terms of ZUGFeRD"
       }
+    },	
+    {
+      "unique_id": 90,
+      "start_date": {
+        "year": 2020,
+        "month": 4,
+        "day": 21
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "France's plans to introduce mandatory B2B-e-invoicing",
+        "text": "Apparently,  <a href='https://www.edicomgroup.com/en_US/news/13617-france-prepares-for-mandatory-b2b-e-invoicing.html'>France is set to introduce mandatory B2B-e-invoicing in 2025</a>"
+      }
+    },	
+    {
+      "unique_id": 91,
+      "start_date": {
+        "year": 2020,
+        "month": 6,
+        "day": 17
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Study on mandatory B2B-e-Invoicing in Germany",
+        "text": "The VER released a  <a href='https://rechnungsaustausch.org/rechtliches/ver-studie-digitalisierung-umsatzsteuer.htm'>study</a> if mandatory B2B-e-invoicing could and should be introduced in Germany"
+      }
+    },	
+    {
+      "unique_id": 92,
+      "start_date": {
+        "year": 2020,
+        "month": 10,
+        "day": 29
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Report on VAT fraud by the German Federal Audit Office",
+        "text": "The German Federal Audit Office <a href='https://dserver.bundestag.de/btd/19/240/1924000.pdf'>requested solutions</a> to VAT fraud"
+      }
+    },	
+    {
+      "unique_id": 93,
+      "start_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 18
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Report by the Bundestag's research service",
+        "text": "The research service of the Bundestag publishes <a href='https://www.bundestag.de/resource/blob/823290/f8b77df6af21563749ba537bb87e907a/WD-4-141-20-pdf-data.pdf'>what needed to be done</a> in order to introduce mandatory B2B-e-invoicing"
+      }
+    },	
+    {
+      "unique_id": 94,
+      "start_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 18
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Request by a political party",
+        "text": "The liberals de facto <a href='https://dserver.bundestag.de/btd/19/265/1926534.pdf'>request</a> the introduction of mandatory B2B e-invoices"
+      }
+    },	
+    {
+      "unique_id": 95,
+      "start_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 24
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Preparations for B2B e-invoice obligations enter the german coalition agreement",
+        "text": "A n a federal reporting system on VAT which will be used for the creation, validation and forwarding of invoices is <a href='https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf'>to be created</a>."
+      }
     }
+    
+    
+    
   ]
 }
