@@ -1364,7 +1364,20 @@
       "group": "B2B",
       "text": {
         "headline": "Preparations for B2B e-invoice obligations enter the german coalition agreement",
-        "text": "A n a federal reporting system on VAT which will be used for the creation, validation and forwarding of invoices is <a href='https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf'>to be created</a>."
+        "text": "A federal reporting system on VAT which will be used for the creation, validation and forwarding of invoices is <a href='https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf'>to be created</a>."
+      }
+    },	
+    {
+      "unique_id": 96,
+      "start_date": {
+        "year": 2022,
+        "month": 2,
+        "day": 10
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "The French Presidency’s ministerial conference on e-invoicing: Electronic invoicing: an instrument for the digital transformation of businesses &amp; government",
+        "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/G28pmP2tRIU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       }
     }
     
