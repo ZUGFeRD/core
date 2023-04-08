@@ -1379,6 +1379,19 @@
         "headline": "The French Presidency’s ministerial conference on e-invoicing: Electronic invoicing: an instrument for the digital transformation of businesses &amp; government",
         "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/G28pmP2tRIU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       }
+    },	
+    {
+      "unique_id": 97,
+      "start_date": {
+        "year": 2023,
+        "month": 1,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "XBestellung 1.0",
+        "text": "Release of a UBL based proposal for german B2G (or rather G2B) orders on the newly launched <a href='https://xeinkauf.de/xbestellung/'>XEinkauf</a> (XProcurement) homepage"
+      }
     }
     
     
