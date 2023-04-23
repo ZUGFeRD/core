@@ -1392,8 +1392,47 @@
         "headline": "XBestellung 1.0",
         "text": "Release of a UBL based proposal for german B2G (or rather G2B) orders on the newly launched <a href='https://xeinkauf.de/xbestellung/'>XEinkauf</a> (XProcurement) homepage"
       }
-    }
+    },
     
+    {
+      "unique_id": 98,
+      "start_date": {
+        "year": 2022,
+        "month": 11,
+        "day": 1
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Germany requests exemption as per Art. 395 MwStSystRL",
+        "text": "As mentioned <a href='https://www.ihk.de/chemnitz/recht-und-steuern/steuerinformationen-rechnungslegung/aktuelle-steuerpolitik/e-rechnungspflicht-fuer-inlaendische-b2b-umsaetze-5781150'>here</a>, Germany requested in November 2022 from the EU to be allowed to introduce B2B e-invoicing"
+      }
+    },	    
+    {
+      "unique_id": 99,
+      "start_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 14
+      },
+      "group": "Adoption",
+      "text": {
+        "headline": "French event 'Journée de la Facture Électronique 2023'",
+        "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/0ncZ-4BENRU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+      }
+    },
+    {
+      "unique_id": 100,
+      "start_date": {
+        "year": 2023,
+        "month": 4,
+        "day": 18
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Germany starts discussion on a potential B2B e-invoicing introduction as per 2025",
+        "text": "As mentioned <a href='https://www.ihk.de/chemnitz/recht-und-steuern/steuerinformationen-rechnungslegung/aktuelle-steuerpolitik/e-rechnungspflicht-fuer-inlaendische-b2b-umsaetze-5781150'>here</a>, the german government requests feedback from stakeholders on a potential introduction of mandatory domestic B2B e-invoicing as of 01.01.2025"
+      }
+    },	    
     
     
   ]
