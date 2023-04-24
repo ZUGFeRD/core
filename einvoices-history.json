@@ -34,7 +34,7 @@
         "year": 2018
       },
       "end_date": {
-        "year": 2020
+        "year": 2024
       },
       "text": {
         "headline": "Structured"
@@ -1432,6 +1432,62 @@
         "headline": "Germany starts discussion on a potential B2B e-invoicing introduction as per 2025",
         "text": "As mentioned <a href='https://www.ihk.de/chemnitz/recht-und-steuern/steuerinformationen-rechnungslegung/aktuelle-steuerpolitik/e-rechnungspflicht-fuer-inlaendische-b2b-umsaetze-5781150'>here</a>, the german government requests feedback from stakeholders on a potential introduction of mandatory domestic B2B e-invoicing as of 01.01.2025"
       }
-    }    
+    },
+    
+    {
+      "unique_id": 101,
+      "start_date": {
+        "year": 2022,
+        "month": 1,
+        "day": 13
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.4",
+        "text": "Mustangproject releases version 2.4 capable of <a href='https://www.mustangproject.org/mustang-2-4-0-now-also-supports-orders/'>writing Order-X</a>"
+      }
+    },	
+    
+    {
+      "unique_id": 102,
+      "start_date": {
+        "year": 2022,
+        "month": 4,
+        "day": 7
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.5",
+        "text": "Mustangproject releases version 2.5 <a href='https://www.mustangproject.org/mustang-2-5-0/'>upgrading to zf 2.2</a>, 2.5.1+: 1Lieferschein, xr 2.2 "
+      }
+    },	
+    
+    {
+      "unique_id": 103,
+      "start_date": {
+        "year": 2022,
+        "month": 12,
+        "day": 23
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.6",
+        "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-6-0-joyeux-noel/'>version 2.6</a> with Factur-X improvements and automated server tests  "
+      }
+    },	
+    
+    {
+      "unique_id": 104,
+      "start_date": {
+        "year": 2023,
+        "month": 4,
+        "day": 17
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.7",
+        "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-7-0/'>version 2.7</a> with english and french output and UBL input in factur-x visualization"
+      }
+    }
   ]
 }
