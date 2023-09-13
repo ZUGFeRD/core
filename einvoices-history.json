@@ -1488,6 +1488,48 @@
         "headline": "Mustangproject 2.7",
         "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-7-0/'>version 2.7</a> with english and french output and UBL input in factur-x visualization"
       }
+    },	
+    
+    {
+      "unique_id": 105,
+      "start_date": {
+        "year": 2023,
+        "month": 4,
+        "day": 21
+      },
+      "group": "Open Standards",
+      "text": {
+        "headline": "Deliver-X Kickoff",
+        "text": "Official <a href='https://www.zugferd-community.net/de/infothek/deliver-x_kickoff'>start of work on Deliver-X</a> standardization"
+      }
+    },	
+    
+    {
+      "unique_id": 106,
+      "start_date": {
+        "year": 2023,
+        "month": 8,
+        "day": 29
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Draft law on mandatory domestic B2B e-invoices in Germany",
+        "text": "The EU has allowed Germany to introduce B2B e-invoices and the german government has approved the according legal act (changing it's deadline from 2025 to 2026) so the draft for the Wachstumschancengesetz, which will change the VAT law, is now a 'governmental draft', i.e. a <a href='https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2023-07-17-Wachstumschancengesetz/2-Regierungsentwurf.pdf?__blob=publicationFile&v=2'>Regierungsentwurf (pg 65, 66 and 243 refer to VAT)</a>.<a href='https://bit.ly/47CRz4G'>(background)</a>"
+      }
+    },	
+    
+    {
+      "unique_id": 107,
+      "start_date": {
+        "year": 2023,
+        "month": 9,
+        "day": 13
+      },
+      "group": "Open-Source",
+      "text": {
+        "headline": "Mustangproject 2.8",
+        "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-8-0/'>version 2.8</a> with first UBL read support"
+      }
     }
   ]
 }
