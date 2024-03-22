@@ -1555,6 +1555,30 @@
         "headline": "French National E-Invoice Day 2023",
         "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/0ncZ-4BENRU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       }
+    },{
+      "unique_id": 110,
+      "start_date": {
+        "year": 2024,
+        "month": 3,
+        "day": 7
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "French National E-Invoice Day 2024",
+        "text": "Videos and slides are <a href='https://fnfe-mpe.org/jfe24/'>on the FNFE homepage</a>"
+      }
+    },{
+      "unique_id": 111,
+      "start_date": {
+        "year": 2024,
+        "month": 3,
+        "day": 22
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "Germany adopts statutory domestic B2B-e-invoicing",
+        "text": "The german Federal Council (Bundesrat) passed the law on statutory domestic B2B e-invoicing which will ban paper and PDF invoices without Factur-X between german companies in 2028 at the latest (<a href='https://medium.com/@jochen.staerk/why-and-how-germany-bans-b2b-paper-invoices-a4c7977f314a'>background</a>)."
+      }
     }
 
     
