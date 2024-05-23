@@ -1262,7 +1262,7 @@
         "headline": "Mustangproject 2.2",
         "text": "Mustangproject releases version 2.2 capable of validating Order-X"
       }
-    },	
+    },
     {
       "unique_id": 88,
       "start_date": {
@@ -1275,7 +1275,7 @@
         "headline": "Mustangproject 2.3",
         "text": "Mustangproject releases version 2.3 capable of validating XR 2.1"
       }
-    },	
+    },
     {
       "unique_id": 89,
       "start_date": {
@@ -1288,7 +1288,7 @@
         "headline": "Gemeinsame Erklärung (Common Statement)",
         "text": "The German Minstry for Interior <a href='https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2013/gemeinsame-erklaerung.html'>publishes a statement</a> that it will partner up with the Ministry of Economy in terms of ZUGFeRD"
       }
-    },	
+    },
     {
       "unique_id": 90,
       "start_date": {
@@ -1301,7 +1301,7 @@
         "headline": "France's plans to introduce mandatory B2B-e-invoicing",
         "text": "Apparently,  <a href='https://www.edicomgroup.com/en_US/news/13617-france-prepares-for-mandatory-b2b-e-invoicing.html'>France is set to introduce mandatory B2B-e-invoicing in 2025</a>"
       }
-    },	
+    },
     {
       "unique_id": 91,
       "start_date": {
@@ -1314,7 +1314,7 @@
         "headline": "Study on mandatory B2B-e-Invoicing in Germany",
         "text": "The VER released a  <a href='https://rechnungsaustausch.org/rechtliches/ver-studie-digitalisierung-umsatzsteuer.htm'>study</a> if mandatory B2B-e-invoicing could and should be introduced in Germany"
       }
-    },	
+    },
     {
       "unique_id": 92,
       "start_date": {
@@ -1327,7 +1327,7 @@
         "headline": "Report on VAT fraud by the German Federal Audit Office",
         "text": "The German Federal Audit Office <a href='https://dserver.bundestag.de/btd/19/240/1924000.pdf'>requested solutions</a> to VAT fraud"
       }
-    },	
+    },
     {
       "unique_id": 93,
       "start_date": {
@@ -1340,7 +1340,7 @@
         "headline": "Report by the Bundestag's research service",
         "text": "The research service of the Bundestag publishes <a href='https://www.bundestag.de/resource/blob/823290/f8b77df6af21563749ba537bb87e907a/WD-4-141-20-pdf-data.pdf'>what needed to be done</a> in order to introduce mandatory B2B-e-invoicing"
       }
-    },	
+    },
     {
       "unique_id": 94,
       "start_date": {
@@ -1353,7 +1353,7 @@
         "headline": "Request by a political party",
         "text": "The liberals de facto <a href='https://dserver.bundestag.de/btd/19/265/1926534.pdf'>request</a> the introduction of mandatory B2B e-invoices"
       }
-    },	
+    },
     {
       "unique_id": 95,
       "start_date": {
@@ -1366,7 +1366,7 @@
         "headline": "Preparations for B2B e-invoice obligations enter the german coalition agreement",
         "text": "A federal reporting system on VAT which will be used for the creation, validation and forwarding of invoices is <a href='https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf'>to be created</a>."
       }
-    },	
+    },
     {
       "unique_id": 96,
       "start_date": {
@@ -1379,7 +1379,7 @@
         "headline": "The French Presidency’s ministerial conference on e-invoicing: Electronic invoicing: an instrument for the digital transformation of businesses &amp; government",
         "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/G28pmP2tRIU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       }
-    },	
+    },
     {
       "unique_id": 97,
       "start_date": {
@@ -1393,7 +1393,6 @@
         "text": "Release of a UBL based proposal for german B2G (or rather G2B) orders on the newly launched <a href='https://xeinkauf.de/xbestellung/'>XEinkauf</a> (XProcurement) homepage"
       }
     },
-    
     {
       "unique_id": 98,
       "start_date": {
@@ -1406,7 +1405,7 @@
         "headline": "Germany requests exemption as per Art. 395 MwStSystRL",
         "text": "As mentioned <a href='https://www.ihk.de/chemnitz/recht-und-steuern/steuerinformationen-rechnungslegung/aktuelle-steuerpolitik/e-rechnungspflicht-fuer-inlaendische-b2b-umsaetze-5781150'>here</a>, Germany requested in November 2022 from the EU to be allowed to introduce B2B e-invoicing"
       }
-    },	    
+    },
     {
       "unique_id": 99,
       "start_date": {
@@ -1433,7 +1432,6 @@
         "text": "As mentioned <a href='https://www.ihk.de/chemnitz/recht-und-steuern/steuerinformationen-rechnungslegung/aktuelle-steuerpolitik/e-rechnungspflicht-fuer-inlaendische-b2b-umsaetze-5781150'>here</a>, the german government requests feedback from stakeholders on a potential introduction of mandatory domestic B2B e-invoicing as of 01.01.2025"
       }
     },
-    
     {
       "unique_id": 101,
       "start_date": {
@@ -1446,8 +1444,7 @@
         "headline": "Mustangproject 2.4",
         "text": "Mustangproject releases version 2.4 capable of <a href='https://www.mustangproject.org/mustang-2-4-0-now-also-supports-orders/'>writing Order-X</a>"
       }
-    },	
-    
+    },
     {
       "unique_id": 102,
       "start_date": {
@@ -1460,8 +1457,7 @@
         "headline": "Mustangproject 2.5",
         "text": "Mustangproject releases version 2.5 <a href='https://www.mustangproject.org/mustang-2-5-0/'>upgrading to zf 2.2</a>, 2.5.1+: 1Lieferschein, xr 2.2 "
       }
-    },	
-    
+    },
     {
       "unique_id": 103,
       "start_date": {
@@ -1474,8 +1470,7 @@
         "headline": "Mustangproject 2.6",
         "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-6-0-joyeux-noel/'>version 2.6</a> with Factur-X improvements and automated server tests  "
       }
-    },	
-    
+    },
     {
       "unique_id": 104,
       "start_date": {
@@ -1488,8 +1483,7 @@
         "headline": "Mustangproject 2.7",
         "text": "Mustangproject releases <a href='https://www.mustangproject.org/mustang-2-7-0/'>version 2.7</a> with english and french output and UBL input in factur-x visualization"
       }
-    },	
-    
+    },
     {
       "unique_id": 105,
       "start_date": {
@@ -1502,8 +1496,7 @@
         "headline": "Deliver-X Kickoff",
         "text": "Official <a href='https://www.zugferd-community.net/de/infothek/deliver-x_kickoff'>start of work on Deliver-X</a> standardization"
       }
-    },	
-    
+    },
     {
       "unique_id": 106,
       "start_date": {
@@ -1516,8 +1509,7 @@
         "headline": "Draft law on mandatory domestic B2B e-invoices in Germany",
         "text": "The EU has allowed Germany to introduce B2B e-invoices and the german government has approved the according legal act (changing it's deadline from 2025 to 2026) so the draft for the Wachstumschancengesetz, which will change the VAT law, is now a 'governmental draft', i.e. a <a href='https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2023-07-17-Wachstumschancengesetz/2-Regierungsentwurf.pdf?__blob=publicationFile&v=2'>Regierungsentwurf (pg 65, 66 and 243 refer to VAT)</a>.<a href='https://bit.ly/47CRz4G'>(background)</a>"
       }
-    },	
-    
+    },
     {
       "unique_id": 107,
       "start_date": {
@@ -1543,7 +1535,8 @@
         "headline": "CWA 16356",
         "text": "The work of the CEN's <a href='https://de.slideshare.net/FrisodeJong/mug-core-cross-industry-invoice-european-message-implementation-guideline-cwa-16356'>CWA 16356</a> (Message User Group, MUG) later served as the basis for EN16931"
       }
-    },{
+    },
+    {
       "unique_id": 109,
       "start_date": {
         "year": 2023,
@@ -1555,7 +1548,8 @@
         "headline": "French National E-Invoice Day 2023",
         "text": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/0ncZ-4BENRU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       }
-    },{
+    },
+    {
       "unique_id": 110,
       "start_date": {
         "year": 2024,
@@ -1567,7 +1561,8 @@
         "headline": "French National E-Invoice Day 2024",
         "text": "Videos and slides are <a href='https://fnfe-mpe.org/jfe24/'>on the FNFE homepage</a>"
       }
-    },{
+    },
+    {
       "unique_id": 111,
       "start_date": {
         "year": 2024,
@@ -1579,8 +1574,19 @@
         "headline": "Germany adopts statutory domestic B2B-e-invoicing",
         "text": "The german Federal Council (Bundesrat) passed the law on statutory domestic B2B e-invoicing which will ban paper and PDF invoices without Factur-X between german companies in 2028 at the latest (<a href='https://medium.com/@jochen.staerk/why-and-how-germany-bans-b2b-paper-invoices-a4c7977f314a'>background</a>)."
       }
+    },
+    {
+      "unique_id": 112,
+      "start_date": {
+        "year": 2019,
+        "month": 7,
+        "day": 1
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Croatia",
+        "text": "B2G eInvoicing is mandatory in Croatia since 2019"
+      }
     }
-
-    
   ]
 }
