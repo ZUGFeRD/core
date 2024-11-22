@@ -1579,8 +1579,33 @@
         "headline": "Germany adopts statutory domestic B2B-e-invoicing",
         "text": "The german Federal Council (Bundesrat) passed the law on statutory domestic B2B e-invoicing which will ban paper and PDF invoices without Factur-X between german companies in 2028 at the latest (<a href='https://medium.com/@jochen.staerk/why-and-how-germany-bans-b2b-paper-invoices-a4c7977f314a'>background</a>)."
       }
+    },
+    {
+      "unique_id": 112,
+      "start_date": {
+        "year": 2022,
+        "month": 12,
+        "day": 8
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "European guideline Vat in the Digital Age (ViDA) drafted",
+        "text": "The European Commission proposed <a href='https://audiovisual.ec.europa.eu/en/topnews/M-009199'>a draft guideline for a CTC on european B2B cross border invoices</a> ."
+      }
+    },
+    {
+      "unique_id": 113,
+      "start_date": {
+        "year": 2024,
+        "month": 11,
+        "day": 5
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "EU Council ViDA Agreement",
+        "text": "The EU Council <a href='https://www.consilium.europa.eu/en/press/press-releases/2024/11/05/taxation-council-agrees-on-vat-in-the-digital-age-package/'>agreed</a> on ViDA for european cross border invoices <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_14961_2024_INIT'>legal background</a>)."
+      }
     }
-
-    
+   
   ]
 }
