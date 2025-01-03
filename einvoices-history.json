@@ -1631,6 +1631,32 @@
         "headline": "German goverment will not publish a free tool",
         "text": "Upon political request the the german government <a href='https://dserver.bundestag.de/btd/20/127/2012742.pdf'>stated</a> that it will not publish a free tool or go campaigning for the e-invoice. It also confirms that the <a href='https://ao.bundesfinanzministerium.de/ao/2021/Anhaenge/BMF-Schreiben-und-gleichlautende-Laendererlasse/Anhang-64/anhang-64.html'>GoBD</a> will implicitly apply to practically any company."
       }
+    },
+    {
+      "unique_id": 116,
+      "start_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 1
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2.2",
+        "text": "<a href='https://www.ferd-net.de/publikationen-produkte/publikationen/detailseite/zugferd-22'>on Ferd-Net.de</a>."
+      }
+    },
+    {
+      "unique_id": 117,
+      "start_date": {
+        "year": 2024,
+        "month": 9,
+        "day": 18
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2.3",
+        "text": "<a href='https://www.ferd-net.de/publikationen-produkte/publikationen/detailseite/zugferd-23-deutsch'>on Ferd-Net.de</a>."
+      }
     }    
    
   ]
