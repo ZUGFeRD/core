@@ -1589,7 +1589,7 @@
       },
       "group": "B2B",
       "text": {
-        "headline": "European guideline Vat in the Digital Age (ViDA) drafted",
+        "headline": "European guideline VAT in the Digital Age (ViDA) drafted",
         "text": "The European Commission proposed <a href='https://audiovisual.ec.europa.eu/en/topnews/M-009199'>a draft guideline for a CTC on european B2B cross border invoices</a> ."
       }
     },
@@ -1657,7 +1657,46 @@
         "headline": "ZUGFeRD 2.3",
         "text": "<a href='https://www.ferd-net.de/publikationen-produkte/publikationen/detailseite/zugferd-23-deutsch'>on Ferd-Net.de</a>."
       }
-    }    
+    },
+    {
+      "unique_id": 118,
+      "start_date": {
+        "year": 2024,
+        "month": 11,
+        "day": 15
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2.3.2",
+        "text": "<a href='https://www.ferd-net.de/aktuelles-veranstaltungen/aktuelles/news/neue-zugferd-version-232-veroeffentlicht'>on Ferd-Net.de</a>."
+      }
+    },
+    {
+      "unique_id": 119,
+      "start_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 7
+      },
+      "group": "ZUGFeRD",
+      "text": {
+        "headline": "ZUGFeRD 2.3.3",
+        "text": "<a href='https://www.ferd-net.de/aktuelles-veranstaltungen/aktuelles/news/neue-zugferd-version-232-veroeffentlicht-2'>on Ferd-Net.de</a>."
+      }
+    },
+    {
+      "unique_id": 120,
+      "start_date": {
+        "year": 2025,
+        "month": 3,
+        "day": 11
+      },
+      "group": "B2B",
+      "text": {
+        "headline": "European guideline VAT in the Digital Age (ViDA) released",
+        "text": "ViDA was released as <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500516'>Guideline (EU) 2025/516</a>, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500517&qid=1750929799829">Council Regulation (EU) 2025/517</a>, as well as <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500518">Council Implementing Regulation (EU) 2025/518</a>."
+      }
+    },   
    
   ]
 }
