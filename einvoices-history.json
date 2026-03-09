@@ -1696,6 +1696,19 @@
         "headline": "European guideline VAT in the Digital Age (ViDA) released",
         "text": "ViDA was released as <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500516'>Guideline (EU) 2025/516</a>, <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500517&qid=1750929799829'>Council Regulation (EU) 2025/517</a>, as well as <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500518'>Council Implementing Regulation (EU) 2025/518</a>."
       }
+    },
+    {
+      "unique_id": 121,
+      "start_date": {
+        "year": 2010,
+        "month": 5,
+        "day": 19
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "European Digital Agenda",
+        "text": "Europes 2010 Agenda for a digital 2020 <a href='https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2010:0245:FIN:en:PDF'>COM:2010:0245</a> was the occasion for the foundation of both the german <a href='https://www.ferd-net.de/'>FeRD</a> and the french <a href='https://fnfe-mpe.org/'>FNFE-MPE</a>."
+      }
     }
    
   ]
