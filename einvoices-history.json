@@ -1709,6 +1709,29 @@
         "headline": "European Digital Agenda",
         "text": "Europes 2010 Agenda for a digital 2020 <a href='https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2010:0245:FIN:en:PDF'>COM:2010:0245</a> was the occasion for the foundation of both the german <a href='https://www.ferd-net.de/'>FeRD</a> and the french <a href='https://fnfe-mpe.org/'>FNFE-MPE</a>."
       }
+    },{
+      "unique_id": 122,
+      "start_date": {
+        "year": 2005
+      },
+      "end_date": {
+        "year": 2009
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "European Commission's Expert Group on e-Invoicing",
+        "text": "Founded 2005 in 2009 the European Commissions Expert Group on e-Invoicing released it's <a href='https://webgate.ec.europa.eu/circabc-ewpp/rest/download/b5e143be-c9f4-411f-a1f0-7495dce9dc44'>final report</a>."
+      }
+    },{
+      "unique_id": 123,
+      "start_date": {
+        "year": 2010
+      },
+      "group": "B2G",
+      "text": {
+        "headline": "Reaping the benefits of electronic invoicing for Europe",
+        "text": "The communication <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52010DC0712'>Reaping the benefits of electronic invoicing for Europe</a> is published."
+      }
     }
    
   ]
